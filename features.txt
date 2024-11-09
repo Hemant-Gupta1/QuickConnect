@@ -13,3 +13,12 @@ npm init -y
 npm i express mongoose cors jsonwebtoken cookie-parser dotenv bcryptjs nodemon
 node index.js to start server (npm run start)
 npm run dev to start server with nodemon
+
+CLIENT
+PS C:\web development\final projects\QuickConnect\QuickConnect> npx create-react-app client
+cd client
+npm start to run client
+npm install -D tailwindcss
+npx tailwindcss init
+npm i react-router-dom
+npm i react-hot-toast
