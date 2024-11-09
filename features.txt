@@ -6,3 +6,10 @@ can send imag with cap and videos also
 download img and videos also
 respnsive
 search users to chat
+ER diagram photo
+
+SERVER
+npm init -y
+npm i express mongoose cors jsonwebtoken cookie-parser dotenv bcryptjs nodemon
+node index.js to start server (npm run start)
+npm run dev to start server with nodemon
